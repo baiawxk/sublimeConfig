@@ -1,0 +1,46 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"ApacheConf",
+		"AutoFileName",
+		"Autoprefixer",
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 3 Snippets",
+		"Color Scheme - Vintage Terminal",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"JavaScript & NodeJS Snippets",
+		"jQuery",
+		"JSX",
+		"LiveReload",
+		"Markdown Preview",
+		"Material Theme",
+		"nginx",
+		"Package Control",
+		"PowerShell",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-eslint",
+		"SublimeLinter-javac",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-jsxhint",
+		"SublimeLinter-php",
+		"SublimeREPL",
+		"SublimeServer",
+		"Terminal",
+		"VBScript"
+	]
+}
